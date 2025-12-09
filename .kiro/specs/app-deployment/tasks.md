@@ -62,7 +62,8 @@
   - Include troubleshooting section for common issues
   - _Requirements: 1.1, 2.1, 6.1_
 
-- [-] 6. Set up Git repository for deployment
+- [x] 6. Set up Git repository for deployment
+
 
 
 
